@@ -14,6 +14,22 @@ differs only in colour. Download a zip from the [`packs`](packs) folder, put it 
 | Sakura | pastel pink, mint, white | [`EronPVPSakuraEdition.zip`](packs/EronPVPSakuraEdition.zip) |
 | Dragon | white and red | [`EronPVPDragonEdition.zip`](packs/EronPVPDragonEdition.zip) |
 
+## EronPVP mod
+
+[`EronPVP-1.0.0.jar`](mod/EronPVP-1.0.0.jar) is a client-side Fabric mod for Minecraft 1.21.11 that
+bundles all editions, so no zip files are needed. Requires Fabric Loader 0.19.1+ and Fabric API; Mod
+Menu is optional.
+
+- Press **J** (or use Mod Menu) to open the Eron PVP menu, pick an edition or none
+- Particle filter that works for every particle, including other mods and block crumbs: only crits,
+  sweeps, firework explosions and the totem pop are shown
+- Mace smash shockwave: an expanding ring on the ground in the edition's colours instead of the dust
+  pillar
+- Filter and shockwave can each be switched off in the menu
+
+When using the mod, disable the standalone zip packs and pick the edition in the menu instead; the
+zip packs carry their own particle filter, which would hide the shockwave.
+
 ## Features
 
 - Recoloured armour and tool tiers (iron, diamond, netherite), totem, mace, bow, crossbow, arrows,
