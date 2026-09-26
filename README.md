@@ -12,6 +12,7 @@ differs only in colour. Download a zip from the [`packs`](packs) folder, put it 
 | Astral | blue, green, purple | [`EronPVPAstralEdition.zip`](packs/EronPVPAstralEdition.zip) |
 | Blackout | black and dark gray | [`EronPVPBlackoutEdition.zip`](packs/EronPVPBlackoutEdition.zip) |
 | Sakura | pastel pink, mint, white | [`EronPVPSakuraEdition.zip`](packs/EronPVPSakuraEdition.zip) |
+| Dragon | white and red | [`EronPVPDragonEdition.zip`](packs/EronPVPDragonEdition.zip) |
 
 ## Features
 
